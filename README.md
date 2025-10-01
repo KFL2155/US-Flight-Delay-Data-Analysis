@@ -20,4 +20,4 @@ Based on the data provided, I wanted to explore some questions which interested 
 
 Below is the final Dashboard after my analysis
 
-![dashboard](dashboard.png)
+<img width="803" height="453" alt="Image" src="https://github.com/user-attachments/assets/90a6170c-53c4-4b73-94fe-9dae7a599a76" />

@@ -18,3 +18,6 @@ Based on the data provided, I wanted to explore some questions which interested 
 
 ## ANALYSIS
 
+Below is the final Dashboard after my analysis
+
+![dashboard](dashboard.png)

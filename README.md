@@ -22,7 +22,8 @@ Below is the final Dashboard after my analysis
 
 <img width="803" height="453" alt="Image" src="https://github.com/user-attachments/assets/90a6170c-53c4-4b73-94fe-9dae7a599a76" />
 
-I have also added a short video below to illustrate that the dasboard is interactive. I configured the filters of the map to apply to the entire dashboard to allow for a more interactive visualization.
 
+
+I have also added a short video below to illustrate that the dasboard is interactive. I configured the filters of the map to apply to the entire dashboard to allow for a more interactive visualization.
 
 https://github.com/user-attachments/assets/0949ac03-7bfb-4baa-8d33-aeb00332a472

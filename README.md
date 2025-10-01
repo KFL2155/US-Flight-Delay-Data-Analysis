@@ -15,3 +15,6 @@ Based on the data provided, I wanted to explore some questions which interested 
 1. Which flight routes have the longest delays?
 2. Are there more delays during certain parts of the year?
 3. Which states have the longest delays?
+
+## ANALYSIS
+
